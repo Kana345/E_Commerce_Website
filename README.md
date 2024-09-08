@@ -9,3 +9,5 @@ Interactive Components: Includes a product catalog and shopping cart with smooth
 Multi-Page Navigation: Home, About, and additional sections are efficiently managed via the Navbar.
 
 Technologies Used: HTML, CSS, JavaScript.
+![sa](https://github.com/user-attachments/assets/deed41b2-b503-4045-8a62-82e140353f17)
+
