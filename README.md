@@ -8,4 +8,4 @@ Responsive UI: Ensures a seamless experience across devices.
 Interactive Components: Includes a product catalog and shopping cart with smooth user interactions.
 Multi-Page Navigation: Home, About, and additional sections are efficiently managed via the Navbar.
 
-Technologies Used: HTML, CSS, JavaScript, React.js
+Technologies Used: HTML, CSS, JavaScript.
